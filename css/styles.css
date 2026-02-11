@@ -1,6 +1,8 @@
 html, body {
 	background: #663399; /* Beccapurple */
 	margin: 0;
+
+	scroll-behavior: smooth;
 }
 h1, h2, h3, h4, h5, h6, p {
 	margin: 0;
@@ -98,7 +100,7 @@ footer {
 	border-top: 1px solid gray;
 	text-align: center;
 	font-size: .8em;
-	line-height: 4em;
+	line-height: 2em;
 	margin-top: 1em;
 }
 blockquote {
